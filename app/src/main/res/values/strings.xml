@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Qr codel scanner</string>
+    <string name="title_scanner_fragment">Scan Qr Code</string>
 </resources>
